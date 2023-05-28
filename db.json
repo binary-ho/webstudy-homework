@@ -1,13 +1,13 @@
 {
       "comments" : [
-            0: { userHandle: "노근", content: "한가람 구비구비 유구하네", like: "300" },
-            1: { userHandle: "율리", content: "와우의 푸른 기슭에 높이 솟은 진리의 전당", like: "41" },
-            2: { userHandle: "참새", content: "정열의 피는 끓는다 새 역사 지어나가리", like: "3123" },
-            3: { userHandle: "우유박자", content: "얘들아 3년 동안 수고했고 나중에 웃으면서 보자", like: "3245" },
-            4: { userHandle: "오함마", content: "여기 젊은 우리들 모여", like: "123" },
-            5: { userHandle: "단한", content: "아침에는 파헤치고 저녁에는 다듬어서", like: "631" },
-            6: { userHandle: "동철", content: "한가람 구비구비 유구하네", like: "631" },
-            7: { userHandle: "쇼쇼", content: "한가람 구비구비 유구하네", like: "631" },
-            8: { userHandle: "폼프", content: "와우의 푸른 기슭에 높이 솟은 홍익대학교", like: "314" },
+            { userHandle: "노근", content: "한가람 구비구비 유구하네", like: "300" },
+            { userHandle: "율리", content: "와우의 푸른 기슭에 높이 솟은 진리의 전당", like: "41" },
+            { userHandle: "참새", content: "정열의 피는 끓는다 새 역사 지어나가리", like: "3123" },
+            { userHandle: "우유박자", content: "얘들아 3년 동안 수고했고 나중에 웃으면서 보자", like: "3245" },
+            { userHandle: "오함마", content: "여기 젊은 우리들 모여", like: "123" },
+            { userHandle: "단한", content: "아침에는 파헤치고 저녁에는 다듬어서", like: "631" },
+            { userHandle: "동철", content: "한가람 구비구비 유구하네", like: "631" },
+            { userHandle: "쇼쇼", content: "한가람 구비구비 유구하네", like: "631" },
+            { userHandle: "폼프", content: "와우의 푸른 기슭에 높이 솟은 홍익대학교", like: "314" },
       ]
 }
