@@ -1,5 +1,5 @@
 {
-      "comments" [
+      "comments" : [
             0: { userHandle: "노근", content: "한가람 구비구비 유구하네", like: "300" },
             1: { userHandle: "율리", content: "와우의 푸른 기슭에 높이 솟은 진리의 전당", like: "41" },
             2: { userHandle: "참새", content: "정열의 피는 끓는다 새 역사 지어나가리", like: "3123" },
